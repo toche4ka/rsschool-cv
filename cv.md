@@ -14,5 +14,28 @@
 *Git version control system.*
 *Visual Studio Code text editor.*
 
+**Sample code:**
+
+```<form action="/people">
+    <label>
+        Имя
+        <input type="text">
+    </label>
+    <label>
+        Почта
+        <input type="text">
+    </label>
+    <select multiple>
+        <option disabled>Какой курс вы хотите пройти?</option>
+        <option>JS</option>
+        <option>React</option>
+        <option>Node.js</option>
+    </select>
+
+    <button>Отправить заявку</button>
+
+</form>
+```
+
 
 
