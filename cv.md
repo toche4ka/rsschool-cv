@@ -36,6 +36,9 @@
 
 </form>
 ```
+##At the moment, I am going through a preparatory course in front-end development, at the "RSSchool" academy
+
+##
 
 
 
