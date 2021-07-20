@@ -1,13 +1,13 @@
-#Anna Karimova
+**Anna Karimova**
 
-##Contacts for communication: **+998(90)9723516**
-##Email: **anitochka1105@gmail.com**
+**Contacts for communication:** +998(90)9723516
+**Email:** anitochka1105@gmail.com
 
-##Purpose; change profession, gain new experience and knowledge, feel satisfaction from the results of their activities. My strengths are dedication, quick learning, perseverance, diligence.##
+*Purpose; change profession, gain new experience and knowledge, feel satisfaction from the results of their activities. My strengths are dedication, quick learning, perseverance, diligence.*
 
-##Worked: as an information input technician, warehouse manager, material accountant.##
+*Worked: as an information input technician, warehouse manager, material accountant.*
 
-#Skills#
+**Skills**
 
 *HTML.*
 *CSS.*
@@ -16,7 +16,7 @@
 
 **Sample code:**
 
-```<form action="/people">
+```<form>
     <label>
         Имя
         <input type="text">
@@ -36,9 +36,11 @@
 
 </form>
 ```
-##At the moment, I am going through a preparatory course in front-end development, at the "RSSchool" academy
 
-##
+
+*At the moment, I am going through a preparatory course in front-end development, at the "RSSchool" academy*
+
+*I'm starting to learn English*
 
 
 
