@@ -85,7 +85,6 @@ h6 {
 }
 html,
 body {
-  width: 100%;
   height: 100%;
 }
 
@@ -105,8 +104,26 @@ body {
   color: rgb(29, 29, 36);
   height: 100vh;
   padding: 5vh;
-  margin: auto;
+  margin: 15px;
   font-size: 20px;
+  max-width: 1200px;
+}
+
+@media (max-width: 1200px) {
+  .section {
+    max-width: 970px;
+  }
+}
+
+@media (max-width: 992px) {
+  .section {
+    max-width: 750px;
+  }
+}
+@media (max-width: 767px) {
+  .section {
+    max-width: none;
+  }
 }
 
 .font {
@@ -114,6 +131,7 @@ body {
   margin: 20px.20px.20px.20px;
   font-weight: 700;
   font-size: 34px;
+  line-height: 55px;
 }
 
 h1 {
@@ -126,7 +144,6 @@ img {
 }
 
 .block {
-  min-width: 400px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -177,7 +194,6 @@ footer {
   background-color: rgb(209, 186, 133);
   color: rgb(26, 24, 24);
   min-height: 0;
-  width: 100%;
   inline: 800px;
 }
 
@@ -185,11 +201,9 @@ footer {
   background-color: rgb(209, 186, 133);
   color: rgb(26, 24, 24);
   min-height: 0;
-  width: 100%;
   inline: 800px;
   margin: 20px, 20px, 20px, 20px;
   padding: 20px, 20px, 20px, 20px;
-  min-width: 400px;
 }
 
 .footer_ad {
