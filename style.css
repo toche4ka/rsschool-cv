@@ -111,9 +111,9 @@ body {
 
 .font {
   color: darkblue;
-  margin: 20px.18px.18px.0px;
+  margin: 20px.20px.20px.20px;
   font-weight: 700;
-  font-size: 28px;
+  font-size: 34px;
 }
 
 h1 {
@@ -127,15 +127,19 @@ img {
 
 .block {
   min-width: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 25px;
 }
 
-.image {
-  margin: 10px;
-  display: inline block;
-  height: 10;
-  width: 10;
-  font-size: 100%;
-  inline: 150px;
+.avatar {
+  margin-left: 25px;
+}
+.name {
+  font-size: 70px;
+  color: blueviolet;
+  font-weight: 700;
 }
 
 .align-image {
@@ -188,4 +192,28 @@ footer {
   margin: 20px, 20px, 20px, 20px;
   padding: 20px, 20px, 20px, 20px;
   min-width: 400px;
+}
+
+.footer_ad {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer_end {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.image {
+  margin: 10px;
+  display: inline block;
+  height: 10;
+  width: 10;
+  font-size: 100%;
+  inline: 150px;
+}
+.color_ico {
+  background-color: rgb(209, 186, 133);
 }
