@@ -179,8 +179,6 @@ footer {
   min-height: 0;
   width: 100%;
   inline: 800px;
-  margin: 20px, 20px, 20px, 20px;
-  padding: 20px, 20px, 20px, 20px;
 }
 
 .block {
@@ -215,5 +213,15 @@ footer {
   inline: 150px;
 }
 .color_ico {
-  background-color: rgb(209, 186, 133);
+  margin-left: 25px;
+  margin-right: 25px;
+}
+.font1 {
+  font-size: 50px;
+  color: blueviolet;
+  font-weight: 700;
+}
+.footer_content {
+  display: flex;
+  justify-content: space-around;
 }
