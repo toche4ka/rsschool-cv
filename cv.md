@@ -1,6 +1,6 @@
-**Anna Karimova**
+**Anna**
 
-**Contacts for communication:** +998(90)9723516
+**Contacts for communication:** +998(90)1234567
 **Email:** anitochka1105@gmail.com
 
 _Purpose; change profession, gain new experience and knowledge, feel satisfaction from the results of their activities. My strengths are dedication, quick learning, perseverance, diligence._
