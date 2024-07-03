@@ -16,7 +16,8 @@ _Visual Studio Code text editor._
 
 **Sample code:**
 
-```<form>
+```
+<form>
     <label>
         Имя
         <input type="text">
